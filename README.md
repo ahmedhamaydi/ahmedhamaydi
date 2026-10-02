@@ -10,7 +10,7 @@
 ### 🚀 About Me
 I am a second-year Electronic Engineering and Computer Systems student passionate about software engineering, scalable systems, and algorithmic problem-solving. I combine strong foundational Computer Science capabilities (Object-Oriented Design, Data Structures & Algorithms, Complexity Analysis) with practical software engineering experience in **Python** and **C++**.
 
-I bring an ownership mindset, deep curiosity, and operational excellence to software engineering, actively preparing for **Software Development Engineer (SDE) Intern** opportunities.
+I bring an ownership mindset, deep curiosity, and operational excellence to computer engineering, actively preparing for **Computer Engineer Intern** opportunities.
 
 ---
 
