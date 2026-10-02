@@ -1,4 +1,4 @@
-# Hi all,
+# Hi all, I'm Ahmed Hamaydi 👋
 
 **Aspiring Computer Engineer (CE)**
 📍 United Kingdom  
