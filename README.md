@@ -20,7 +20,7 @@ I bring an ownership mindset, deep curiosity, and operational excellence to soft
 | :--- | :--- |
 | **Programming Languages** | Python, C++ |
 | **CS Fundamentals** | Data Structures (Trees, Graphs, Hash Tables, Linked Lists), Algorithms (Sorting, BFS, Dijkstra's), Object-Oriented Design (Strategy Pattern, Polymorphism, Inheritance), Big-O Analysis |
-| **Developer Tools** | Git, GitHub, Visual Studio, VS Code, MATLAB, AI-assisted development workflows |
+| **Developer Tools** | Git, GitHub, Visual Studio, VS Code, MATLAB, NI Multisim, PCB Wizard, AI-assisted development workflows |
 | **Hardware & Systems** | Embedded Systems, Motor Integration, Circuit Analysis, Locomotive Design (IMechE Railway Challenge) |
 
 ---
